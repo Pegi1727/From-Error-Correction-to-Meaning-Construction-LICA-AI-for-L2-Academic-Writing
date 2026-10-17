@@ -74,13 +74,13 @@ Rather than telling a writer a paragraph is simply "weak," LICA-AI identifies *w
 ### Figure 2 — Baseline Equivalence
 
 <p align="center">
-  <img src="figures/figure2_baseline_equivalence.png" alt="Pre-intervention group means with Hedges' g, confirming baseline equivalence" width="750"/>
+  <img src="figures/figure2_pre_post_trajectories.png" alt="Pre-intervention group means with Hedges' g, confirming baseline equivalence" width="750"/>
 </p>
 
 ### Figure 3 — LMM Interaction Effects (Group × Time)
 
 <p align="center">
-  <img src="figures/figure3_lmm_interaction.png" alt="Estimated marginal means pre/post by group for all four LICA dimensions with beta_3 coefficients" width="800"/>
+  <img src="figures/figure3_interaction_coefficients.png" alt="Estimated marginal means pre/post by group for all four LICA dimensions with beta_3 coefficients" width="800"/>
 </p>
 
 
