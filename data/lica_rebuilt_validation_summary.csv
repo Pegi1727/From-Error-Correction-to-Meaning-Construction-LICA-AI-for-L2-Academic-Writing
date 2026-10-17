@@ -1,0 +1,15 @@
+,value
+n_rows_raw,240
+n_participants,60
+n_Control,30
+n_Experimental,30
+n_Phases,2
+n_Raters,2
+duplicate_full_rows,0
+duplicate_keys,0
+missing_values_total,0
+rows_per_participant_min,4
+rows_per_participant_max,4
+participant_phase_rows,120
+group_conflicts,0
+phase_conflicts,60
