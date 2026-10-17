@@ -77,17 +77,12 @@ Rather than telling a writer a paragraph is simply "weak," LICA-AI identifies *w
   <img src="figures/figure2_baseline_equivalence.png" alt="Pre-intervention group means with Hedges' g, confirming baseline equivalence" width="750"/>
 </p>
 
-*Figure 2.* Pre-intervention group equivalence across the four LICA dimensions (Ideas, Cohesion, Appropriateness, Language) showing non-significant baseline differences ($|g| \le 0.05, p > .80$).
-
----
-
 ### Figure 3 — LMM Interaction Effects (Group × Time)
 
 <p align="center">
   <img src="figures/figure3_lmm_interaction.png" alt="Estimated marginal means pre/post by group for all four LICA dimensions with beta_3 coefficients" width="800"/>
 </p>
 
-*Figure 3.* Linear Mixed-Effects Model (LMM) interaction trajectories demonstrating substantial gains in discourse-level dimensions (Ideas: $\beta_3 = 1.320$, Cohesion: $\beta_3 = 1.188$, Appropriateness: $\beta_3 = 0.920$; all $p < .001$) versus stability in surface language mechanics ($\beta_3 = 0.070, p = .262$).
 
 ### Figure 4 — Effect Sizes (Difference-in-Gains)
 
